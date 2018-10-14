@@ -8,10 +8,11 @@
 		"es6": true,
 		"postcss": true,
 		"minified": true,
-		"newFeature": true
+		"newFeature": true,
+		"nodeModules": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.0.4",
+	"libVersion": "2.3.0",
 	"appid": "wxf526fac25c9b7406",
 	"projectname": "wxf526fac25c9b7406",
 	"debugOptions": {

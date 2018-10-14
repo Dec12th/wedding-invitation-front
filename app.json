@@ -7,7 +7,12 @@
     "pages/photos/photos",
     "pages/photograph/photograph",
     "pages/map/map",
-    "pages/invite/invite"
+    "pages/invite/invite",
+    "pages/integrated/integrated",
+    "pages/dialing/dialing",
+    "pages/devtools/devtools",
+    "pages/desktop/desktop",
+    "pages/call/call"
   ],
   "window": {
     "backgroundTextStyle": "light",
