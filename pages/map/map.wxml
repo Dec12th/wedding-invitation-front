@@ -1,2 +1,22 @@
-<!--pages/map/map.wxml-->
-<text>pages/map/map.wxml</text>
+<!--pages/invitation/index.wxml-->
+
+<view class="container">
+    <image src='/image/inv.png' class='inv'></image>
+    <image src='https://pengmaster.com/party/wechat/marry/ozfq_zip/HY2A1176.jpg' class='cover' mode='aspectFill'></image>
+    <view class='datetime' animation="{{animationData}}">
+        <view class='box'>
+            <view class="name css13610f7ae66601">
+                <span class="fl">Mr.尹</span>
+                <span class="and">&</span>
+                <span class="fr ">Miss.王</span>
+            </view>
+            <view class="date css13610f7ae66601">
+                <view>谨定于 2019年1月1日</view>
+                <view>农历 2018年十一月廿六 举办婚礼</view>
+                <view bindtap="markertap">地址：湖南省常德市临澧县四新岗镇毛花村王家湾组(点击导航)</view>
+                <view>欢迎您的光临</view>
+            </view>
+            <image class="we" src='/images/we.png'></image>
+        </view>
+    </view>
+</view>
