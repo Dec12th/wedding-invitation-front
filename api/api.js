@@ -1,10 +1,10 @@
 //base地址 47.104.198.222
 // const host = 'https://pengmaster.com/party/'
-const host = 'http://localhost:18080/party/'
+const host = 'http://localhost:8088/springboot/'
 const image = host + 'wechat/image/'
 const marry = host + 'wechat/marry/'
 //接口统一入口地址
-const mobileIn = host + 'mobile/mobileIn.do'
+const mobileIn = host + 'mobile/mobileIn'
 
 //-----------------图片具体地址------------------
 //-----通用图片地址
